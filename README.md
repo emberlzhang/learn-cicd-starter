@@ -24,4 +24,4 @@ You do _not_ need to set up a database or any interactivity on the webpage yet. 
 
 ## Attribution
 
-Ember's version of Boot.dev's Notely app
+L1 Notes: Ember's version of Boot.dev's Notely app
